@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MasonDye</h1>
-<h3 align="center">A passionate full stack developer from China</h3>
+<h3 align="center">A passionate full stack developer from USA</h3>
 
 - 🔭 I’m currently working on **AlmondNetwork Project**
 
