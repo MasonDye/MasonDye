@@ -1,8 +1,26 @@
 <h1 align="center">Hi 👋, I'm MasonDye</h1>
 <h3 align="center">A passionate full stack developer from China</h3>
 
+- 🔭 I’m currently working on **AlmondNetwork Project**
+
+- 🌱 I’m currently learning **Golang**
+
+- 👯 I’m looking to collaborate on [AlmondCloud Drive](https://almondcloud.cn/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/MasonDye](https://github.com/MasonDye)
+
+- 📝 I regularly write articles on [https://blog.almondnet.cn/](https://blog.almondnet.cn/)
+
+- 📫 How to reach me **admin@almondnet.cn**
+
+- 📄 Know about my experiences [https://my.almondnet.cn/](https://my.almondnet.cn/)
+
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/@masontech-yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@masontech-yt" height="30" width="40" /></a>
+<a href="https://discord.gg/*MasonDye*" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="*MasonDye*" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
