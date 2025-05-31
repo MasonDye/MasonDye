@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📫 How to reach me **me@voxtal.com**
+- 📫 How to reach me **mason@voxtal.com**
 
 - ⚡ Fun fact **I think I am funny**
 
