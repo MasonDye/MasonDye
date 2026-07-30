@@ -3,7 +3,6 @@
 ### Turn imagination into reality.
 
 - ❤️ I love open source.
-
 - 🖐️ I love freedom.
 
 ### About Me
