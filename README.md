@@ -11,7 +11,7 @@ Full-stack engineer specializing in cloud computing and cloud-native technologie
 
 ### Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/themasondye)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/themasondye)
 
 ### Tech Stack
 
