@@ -12,7 +12,7 @@ Full-stack engineer specializing in cloud computing and cloud-native technologie
 
 ### Socials
 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/themasondye)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/themasondye)
 
 ### Tech Stack
 
@@ -110,11 +110,11 @@ Full-stack engineer specializing in cloud computing and cloud-native technologie
 
 ![](https://github-readme-stats.shion.dev/api?username=MasonDye&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=MasonDye.MasonDye&)](https://visitor-badge.laobi.icu)
+[![](https://visitor-badge.laobi.icu/badge?page_id=MasonDye.MasonDye&)](https://visitor-badge.laobi.icu)
 
 ---
 
 ### You can help me by Donating
 
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MasonL1u) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MasonL1u) 
 
